@@ -16,3 +16,20 @@ body {
 .theme-showcase .navbar .container {
   width: auto;
 }
+
+.margin-bottom {
+  margin-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+#labels h1, #labels h2, #labels h3,
+#labels h4, #labels h5, #labels h6,
+#labels p {
+  display: inline-block;
+  margin-top: 0;
+}
+
+.row.margin-bottom .btn {
+  margin-bottom: 5px;
+}
